@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"martix-pos","appId":"1:198805441330:android:ef336f05dd49df35cee52b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"martix-pos","configurations":{"android":"1:198805441330:android:ef336f05dd49df35cee52b","ios":"1:198805441330:ios:bc0ad3df37c2f712cee52b"}}}}}}

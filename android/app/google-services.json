@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198805441330",
+    "project_id": "martix-pos",
+    "storage_bucket": "martix-pos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198805441330:android:ef336f05dd49df35cee52b",
+        "android_client_info": {
+          "package_name": "com.example.martix_pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENtZgBRSWonmcepNGv0XlfqMDIL5WF9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
